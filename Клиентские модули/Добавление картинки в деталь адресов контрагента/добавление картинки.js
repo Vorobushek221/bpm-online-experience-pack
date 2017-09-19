@@ -15,10 +15,6 @@ define("AccountAddressDetailV2", ["css!UsrAccountAddressDetailCss"], function() 
 	            "operation": "merge",
 	            "name": "DataGrid",
 	            "values": {
-					"activeRowAction": 
-					{ 
-						"bindTo": "onRowClick" 
-					},
 					"activeRowActions": 
 					[
 	                    {
