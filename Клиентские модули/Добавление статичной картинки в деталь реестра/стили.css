@@ -1,0 +1,6 @@
+div.grid-row-hidden {
+	display: block; /*перебиваю стандатный css, чтобы скрытая картинка отображалась, как обычная*/
+}
+.flip-wheel-detail-image {
+	width: 150px;
+}
